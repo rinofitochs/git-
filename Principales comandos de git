@@ -1,0 +1,8 @@
+Principales comandos de git
+===================================================
+git init (inicia un repositorio)
+git status 
+git add (index.html)
+git commit -m"mensaje con el commit"
+git diff (para que salga lo que hemos modificado)
+git log  (muestra todos los commits hechos)
