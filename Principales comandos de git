@@ -6,3 +6,5 @@ git add (index.html)
 git commit -m"mensaje con el commit"
 git diff (para que salga lo que hemos modificado)
 git log  (muestra todos los commits hechos)
+git checkout -- index.html (Descartar cambios)
+git reset HEAD index.html (Descarta cambios del stage)
