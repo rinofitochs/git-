@@ -1,6 +1,14 @@
 Principales comandos de git
 ===================================================
 git init (inicia un repositorio)
+==================================================
+git remote add unalias https://github.com/rinofitochs/git-.git
+
+(vincula el remoto con el local)
+====================================================
+git remote -v (Lista todos los repositorios remotos)
+git pull nombreDelRepo master(Actualiza todos los cambios hechos en el repo remoto al local)
+
 git status 
 git add (index.html)
 git commit -m"mensaje con el commit"
